@@ -1,4 +1,4 @@
-# Gustavo <img src="https://gifimgs.com/animations/anime/dragon-ball-z/Goku/goku_11.gif" width="60px">
+# Gustavo <img src="https://gifimgs.com/animations/anime/dragon-ball-z/Goku/goku_11.gif" width="70px">
 
 Eu sou <strong>Gustavo Henrique</strong>, <strong>tenho 20 anos e sou de Pernambuco</strong> 👨🏻‍💻 
 
