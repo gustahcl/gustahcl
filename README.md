@@ -2,7 +2,7 @@
 
 Eu sou <strong>Gustavo Henrique</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Aprendendo lógica de programação e HTML</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>Aprendendo lógica de programação, HTML e JavaScript</strong> 
 - 💬 Pergunte-me sobre: <strong>Leitura e jogos</strong>
 - 📣 Nós podemos falar em: <strong>Inglês e espanhol</strong>
 
