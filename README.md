@@ -1,6 +1,6 @@
 # Gustavo <img src="https://gifimgs.com/animations/anime/dragon-ball-z/Goku/goku_11.gif" width="60px">
 
-Eu sou <strong>Gustavo Henrique</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+Eu sou <strong>Gustavo Henrique</strong>, <strong>tenho 20 anos e sou de Pernambuco</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>Aprendendo lógica de programação, HTML e JavaScript</strong> 
 - 💬 Pergunte-me sobre: <strong>Leitura e jogos</strong>
