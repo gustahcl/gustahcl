@@ -2,7 +2,7 @@
 
 Eu sou <strong>Gustavo Henrique</strong>, <strong>tenho 20 anos e sou de Pernambuco</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>Aprendendo lógica de programação, HTML e JavaScript</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>Aprendendo HTML, CSS e JavaScript</strong> 
 - 💬 Pergunte-me sobre: <strong>Leitura e jogos</strong>
 - 📣 Nós podemos falar em: <strong>Inglês e espanhol</strong>
 
