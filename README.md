@@ -1,20 +1,21 @@
-# Gustavo <img src="https://gifimgs.com/animations/anime/dragon-ball-z/Goku/goku_11.gif" width="70px">
+# Olá, eu sou Gustavo! 👋
 
-Eu sou <strong>Gustavo Henrique</strong>, <strong>tenho 20 anos e sou de Pernambuco</strong> 👨🏻‍💻 
+### Cientista de Dados em formação
 
-- 🚀 Atualmente estou aprendendo: <strong>Aprendendo HTML, CSS e JavaScript</strong> 
-- 💬 Pergunte-me sobre: <strong>Leitura e jogos</strong>
-- 📣 Nós podemos falar em: <strong>Inglês e espanhol</strong>
+- 🔭 Atualmente trabalhando/estudando: Python, SQL e Machine Learning.
+- 🌱 Aprendendo: Pandas, Scikit-learn e visualização de dados.
+- 📫 Como me encontrar: [LinkedIn](https://linkedin.com/in/seu-perfil) | seu-email@exemplo.com
 
-<div align="center">
+---
 
-  <a href="#" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto.guustavo.henrique.c.l12@gmail.com"/></a>
+### Linguagens e Ferramentas
 
-  <a href="#" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-  <a href="#" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+---
 
-</div>
+### Estatísticas do GitHub
+
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=gustahcl&show_icons=true&theme=default)
