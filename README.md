@@ -5,8 +5,7 @@
 - 💻 Tecnologias que utilizo: **Python, JavaScript, TypeScript, React, SQL, HTML/CSS, Node.js, Power BI**
 - 🚀 Atuação prática em: **Análise de Dados**, **Desenvolvimento Web** e **Automação de Processos**
 - 📬 Contato:
-  [![Gmail Badge](https://img.shields.io/badge/-guustavo.henrique.c.l12@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:guustavo.henrique.c.l12@gmail.com)
-  [![LinkedIn Badge](https://img.shields.io/badge/-Gustavo%20Henrique-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-henrique-a8279a236/)
+ <p align="left"> <a href="mailto:guustavo.henrique.c.l12@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" /> </a> <a href="https://www.linkedin.com/in/gustavo-henrique-a8279a236/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" /> </a> </p>
 
 
 ---
