@@ -2,8 +2,8 @@
 
 ### Desenvolvedor em formação | Data Science | Web
 
-- 🌱 Atualmente aprendendo: **Python, JavaScript, TypeScript, SQL, HTML/CSS, React**
-- 🎯 Foco: **Análise de Dados, Desenvolvimento Web e Automação de Processos**
+- 🧠 Tecnologias que utilizo: **Python, JavaScript, TypeScript, React, SQL, HTML/CSS, Node.js, Power BI**
+- 🚀 Atuação prática em: **Análise de Dados**, **Desenvolvimento Web** e **Automação de Processos**
 - 📬 Contato: [guustavo.henrique.c.l12@gmail.com](mailto:guustavo.henrique.c.l12@gmail.com)
 
 ---
