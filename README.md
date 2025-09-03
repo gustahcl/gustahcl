@@ -31,8 +31,8 @@
 
 ### 📊 GitHub Stats
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=gustahcl&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustahcl&layout=compact)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=gustahcl&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustahcl&layout=compact&theme=tokyonight)
 
 ---
 
