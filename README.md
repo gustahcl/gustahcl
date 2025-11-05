@@ -2,10 +2,9 @@
 
 ### Desenvolvedor em formação | Data Science | Web
 
-- 💻 Tecnologias que utilizo: **Python, JavaScript, TypeScript, SQL, HTML/CSS, Node.js, Power BI**
+- 💻 Tecnologias que utilizo: **Python, JavaScript, TypeScript, React, SQL, HTML/CSS, Node.js, Power BI**
 - 🚀 Atuação prática em: **Análise de Dados**, **Desenvolvimento Web** e **Automação de Processos**
-- 📬 Contato:  <p align="left"> <a href="mailto:guustavo.henrique.c.l12@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" /> </a> <a href="https://www.linkedin.com/in/gustavo-henrique-a8279a236/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" /> </a> </p>
-
+- 📬 Contato: <p align="left"> <a href="mailto:guustavo.henrique.c.l12@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" /> </a> <a href="https://www.linkedin.com/in/gustavo-henrique-a8279a236/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" /> </a> </p>
 
 ---
 
@@ -16,6 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -35,6 +35,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustahcl&layout=compact&theme=tokyonight)
 
 ---
-
 
 ⭐ **Estou aberto a colaborações e novos projetos!**
