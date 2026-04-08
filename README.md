@@ -2,10 +2,10 @@
 
 ### Desenvolvedor em formação 
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Senac, atualmente no 4º período**
-- ☕ Foco em desenvolvimento backend com Java e construção de APIs**
-- ⚙️ Interesse em boas práticas, arquitetura de software e desenvolvimento escalável**
-- 🚀 Em constante evolução, buscando aprofundar conhecimentos e construir soluções eficientes**
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Senac, atualmente no 4º período
+- ☕ Foco em desenvolvimento backend com Java e construção de APIs
+- ⚙️ Interesse em boas práticas, arquitetura de software e desenvolvimento escalável
+- 🚀 Em constante evolução, buscando aprofundar conhecimentos e construir soluções eficientes
 - 📬 Contato: <p align="left"> <a href="mailto:guustavo.henrique.c.l12@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" /> </a> <a href="https://www.linkedin.com/in/gustavo-henrique-a8279a236/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" /> </a> </p>
 
 ---
