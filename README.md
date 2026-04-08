@@ -30,8 +30,3 @@
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=gustahcl&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustahcl&layout=compact&theme=tokyonight)
