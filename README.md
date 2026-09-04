@@ -6,7 +6,7 @@ Desenvolvedor Back-End & Fullstack · Jaboatão dos Guararapes, Pernambuco · Br
 
 Desenvolvedor **Back-End**, dedicado à construção de APIs RESTful estruturadas, seguras e eficientes. Atuo no frontend com **React e TypeScript** e no backend com **Java, Node.js e Python**, sempre guiado pela resolução prática de problemas e automação de processos.
 
-Priorizo a qualidade e a manutenibilidade do software, aplicando **Clean Code**, princípios **SOLID** e padrões como **Arquitetura MVC**[cite: 1]. Projeto **arquiteturas escaláveis** e adoto práticas de testes automatizados com **JUnit e Mockito** para garantir confiabilidade. Tenho experiência no design de integrações com bancos relacionais (**PostgreSQL, MySQL**), uso de ORMs (**Spring Data JPA**) e orquestração de infraestrutura com **Docker** e **AWS Cloud**[cite: 1]. Utilizo LLMs e IA Generativa (**Amazon Bedrock**) como ferramentas de desenvolvimento para pesquisa, automação e análise de dados, mantendo o raciocínio crítico e a responsabilidade sobre as decisões de arquitetura[cite: 1].
+Priorizo a qualidade e a manutenibilidade do software, aplicando **Clean Code**, princípios **SOLID** e padrões como **Arquitetura MVC**. Projeto **arquiteturas escaláveis** e adoto práticas de testes automatizados com **JUnit e Mockito** para garantir confiabilidade. Tenho experiência no design de integrações com bancos relacionais (**PostgreSQL, MySQL**), uso de ORMs (**Spring Data JPA**) e orquestração de infraestrutura com **Docker** e **AWS Cloud**. Utilizo LLMs e IA Generativa (**Amazon Bedrock**) como ferramentas de desenvolvimento para pesquisa, automação e análise de dados, mantendo o raciocínio crítico e a responsabilidade sobre as decisões de arquitetura.
 
 ---
 
