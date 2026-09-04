@@ -1,31 +1,70 @@
 # Olá, eu sou Gustavo! 👋
 
-### Desenvolvedor em formação 
+<p align="left">
+  <a href="https://linkedin.com/in/gustavo-henrique-a8279a236" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:guustavo.henrique.c.l12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/gustahcl" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Faculdade Senac, atualmente no 4º período
-- ☕ Foco em desenvolvimento backend e construção de APIs
-- ⚙️ Interesse em boas práticas, arquitetura de software e desenvolvimento escalável
-- 🚀 Em constante evolução, buscando aprofundar conhecimentos e construir soluções eficientes
-- 📬 Contato: <p align="left"> <a href="mailto:guustavo.henrique.c.l12@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="28" /> </a> <a href="https://www.linkedin.com/in/gustavo-henrique-a8279a236/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" /> </a> </p>
+---
+
+### 🚀 Sobre Mim
+
+Desenvolvedor com foco em **Back-End Java** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Faculdade Senac Pernambuco**. 
+
+Tenho experiência prática na criação e consumo de **APIs RESTful**, modelagem e consulta em **bancos de dados relacionais**. Busco constantemente aplicar boas práticas de arquitetura (**Clean Code**, **SOLID**), testes automatizados (**JUnit/Mockito**) e práticas **DevOps** (Docker, Git Flow e CI/CD).
+
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas – Faculdade Senac (Previsão: Dez/2026)
+- 🎯 **Foco de Atuação:** Desenvolvimento Back-End, Construção de APIs RESTful e Engenharia de Software
+- 💬 **Idiomas:** Português (Nativo) | Inglês (Upper Intermediate)
 
 ---
 
-### 🛠 Tecnologias
+### 🛠️ Stacks & Tecnologias
 
-#### Linguagens e Frameworks:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+#### **Back-End & Linguagens**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-#### Ferramentas:
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
+#### **Bancos de Dados & ORM**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+#### **DevOps, Nuvem & Ferramentas**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### **Front-End**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
+
+### 📈 Estatísticas do GitHub
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustahcl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustahcl&layout=compact&theme=tokyonight&hide=html,css"/>
+</p>
+
+---
+
+### 📫 Vamos nos conectar?
+
+Se você está buscando um desenvolvedor proativo, focado em entregar código limpo, APIs bem documentadas e soluções escaláveis, será um prazer conversar!
+
+- ✉️ Email: [guustavo.henrique.c.l12@gmail.com](mailto:guustavo.henrique.c.l12@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/gustavo-henrique-a8279a236](https://linkedin.com/in/gustavo-henrique-a8279a236)
