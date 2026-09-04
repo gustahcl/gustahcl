@@ -1,68 +1,55 @@
-# Olá, eu sou Gustavo! 👋
+# Gustavo Henrique Custódio de Lima
+
+Desenvolvedor Back-End & Fullstack · Jaboatão dos Guararapes, Pernambuco · Brasil
+
+---
+
+Desenvolvedor **Back-End**, dedicado à construção de APIs RESTful estruturadas, seguras e eficientes. Atuo no frontend com **React e TypeScript** e no backend com **Java, Node.js e Python**, sempre guiado pela resolução prática de problemas e automação de processos.
+
+Priorizo a qualidade e a manutenibilidade do software, aplicando **Clean Code**, princípios **SOLID** e padrões como **Arquitetura MVC**[cite: 1]. Projeto **arquiteturas escaláveis** e adoto práticas de testes automatizados com **JUnit e Mockito** para garantir confiabilidade. Tenho experiência no design de integrações com bancos relacionais (**PostgreSQL, MySQL**), uso de ORMs (**Spring Data JPA**) e orquestração de infraestrutura com **Docker** e **AWS Cloud**[cite: 1]. Utilizo LLMs e IA Generativa (**Amazon Bedrock**) como ferramentas de desenvolvimento para pesquisa, automação e análise de dados, mantendo o raciocínio crítico e a responsabilidade sobre as decisões de arquitetura[cite: 1].
+
+---
+
+### Linguagens
 
 <p align="left">
-  <a href="https://linkedin.com/in/gustavo-henrique-a8279a236" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:guustavo.henrique.c.l12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/gustahcl" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
----
-
-### 🚀 Sobre Mim
-
-Desenvolvedor com foco em **Back-End Java** e estudante de **Análise e Desenvolvimento de Sistemas (ADS)** na **Faculdade Senac Pernambuco**. 
-
-Tenho experiência prática na criação e consumo de **APIs RESTful**, modelagem e consulta em **bancos de dados relacionais**. Busco constantemente aplicar boas práticas de arquitetura (**Clean Code**, **SOLID**), testes automatizados (**JUnit/Mockito**) e práticas **DevOps** (Docker, Git Flow e CI/CD).
-
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas – Faculdade Senac (Previsão: Dez/2026)
-- 🎯 **Foco de Atuação:** Desenvolvimento Back-End, Construção de APIs RESTful e Engenharia de Software
-- 💬 **Idiomas:** Português (Nativo) | Inglês (Upper Intermediate)
-
----
-
-### 🛠️ Stacks & Tecnologias
-
-#### **Back-End & Linguagens**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### **Bancos de Dados & ORM**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
-#### **DevOps, Nuvem & Ferramentas**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-#### **Front-End**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### 📈 Estatísticas do GitHub
+### Frameworks e Bibliotecas
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustahcl&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustahcl&layout=compact&theme=tokyonight&hide=html,css"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
 </p>
 
----
+### Ferramentas e Plataformas
 
-### 📫 Vamos nos conectar?
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="AWS Cloud" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+</p>
+
+### Aprendendo
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="CI/CD" width="40" height="40"/>
+</p>
 
 Se você está buscando um desenvolvedor proativo, focado em entregar código limpo, APIs bem documentadas e soluções escaláveis, será um prazer conversar!
 
