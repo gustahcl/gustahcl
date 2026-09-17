@@ -50,5 +50,5 @@ Priorizo a qualidade e a manutenibilidade do software, aplicando **Clean Code**,
 
 Se você está buscando um desenvolvedor proativo, focado em entregar código limpo, APIs bem documentadas e soluções escaláveis, será um prazer conversar!
 
-- ✉️ Email: [guustavo.henrique.c.l12@gmail.com](mailto:guustavo.henrique.c.l12@gmail.com)
+- ✉️ Email: [gustavoriquecl@gmail.com](mailto:gustavoriquecl@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/gustavo-henrique-a8279a236](https://linkedin.com/in/gustavo-henrique-a8279a236)
