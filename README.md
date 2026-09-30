@@ -33,13 +33,7 @@ Priorizo a qualidade e a manutenibilidade do software, aplicando **Clean Code**,
 
 ### Ferramentas e Plataformas
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" alt="AWS Cloud" width="40" height="40"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,mysql,postgres,aws)](https://skillicons.dev)
 
 ### Aprendendo
 
