@@ -43,10 +43,7 @@ Priorizo a qualidade e a manutenibilidade do software, aplicando **Clean Code**,
 
 ### Aprendendo
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernets)](https://skillicons.dev)
 
 Se você está buscando um desenvolvedor proativo, focado em entregar código limpo, APIs bem documentadas e soluções escaláveis, será um prazer conversar!
 
