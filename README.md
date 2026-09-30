@@ -43,7 +43,7 @@ Priorizo a qualidade e a manutenibilidade do software, aplicando **Clean Code**,
 
 ### Aprendendo
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernets)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
 
 Se você está buscando um desenvolvedor proativo, focado em entregar código limpo, APIs bem documentadas e soluções escaláveis, será um prazer conversar!
 
