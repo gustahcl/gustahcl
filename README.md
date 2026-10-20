@@ -33,11 +33,11 @@ Priorizo a qualidade e a manutenibilidade do software, aplicando **Clean Code**,
 
 ### Ferramentas e Plataformas
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,mysql,postgres,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,docker,mysql,postgres,aws)](https://skillicons.dev)
 
 ### Aprendendo
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://skillicons.dev)
 
 Se você está buscando um desenvolvedor proativo, focado em entregar código limpo, APIs bem documentadas e soluções escaláveis, será um prazer conversar!
 
